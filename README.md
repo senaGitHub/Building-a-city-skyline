@@ -18,7 +18,7 @@ You can view the live demo of the project by opening the `survey-form.html` in a
 To get started with the project, download the HTML and CSS files:
 
 ```bash
-git clone https://github.com/senaGitHub/city-skyline.git
+git clone https://github.com/senaGitHub/Building-a-city-skyline.git
 ```
 ### 2. Open the Files
 Open the `survey-form.html` file in your preferred web browser to view the city skyline.
